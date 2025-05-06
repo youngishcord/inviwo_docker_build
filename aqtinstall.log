@@ -1,0 +1,323 @@
+2025-05-06 01:42:20,350 - aqt.metadata - DEBUG - metadata 132256912019584 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://ftp1.nluug.nl/languages/qt/'.
+2025-05-06 01:42:24,377 - aqt.main - ERROR - installer 132256912019584 Failure to connect to https://ftp1.nluug.nl/languages/qt/online/qtsdkrepository/linux_x64/desktop/: SSLError
+2025-05-06 01:43:49,977 - aqt.metadata - DEBUG - metadata 137335144775808 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://master.qt.io/'.
+2025-05-06 01:44:14,079 - aqt.main - ERROR - installer 137335144775808 Failure to connect to https://master.qt.io/online/qtsdkrepository/linux_x64/desktop/: ConnectTimeout
+2025-05-06 01:44:52,969 - aqt.metadata - DEBUG - metadata 133199645241472 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://qt.mirror.constant.com/'.
+2025-05-06 01:48:19,559 - aqt.main - INFO - installer 138800587583616 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 01:48:43,612 - aqt.metadata - DEBUG - metadata 138800587583616 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://master.qt.io/'.
+2025-05-06 01:49:07,663 - aqt.main - ERROR - installer 138800587583616 No versions of Qt exist for spec=6.8.* with host=linux, target=desktop, arch=linux_gcc_64
+2025-05-06 01:50:09,068 - aqt.main - INFO - installer 130071793688704 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 01:50:09,069 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:09,301 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:09,480 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:09,659 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:09,836 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:10,010 - aqt.archives - WARNING - archives 130071793688704 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 01:50:34,060 - aqt.helper - WARNING - helper 130071793688704 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://www.nic.funet.fi/pub/mirrors/download.qt-project.org/'.
+2025-05-06 01:50:34,060 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:34,237 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:34,422 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:34,608 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:34,787 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:50:34,968 - aqt.archives - WARNING - archives 130071793688704 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 01:50:35,217 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:35,395 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:35,572 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:35,752 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:35,937 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:36,121 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:36,304 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:36,479 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:36,653 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:36,836 - aqt.helper - DEBUG - helper 130071793688704 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 01:50:37,345 - aqt.helper - DEBUG - helper 128126961680512 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,346 - aqt.helper - DEBUG - helper 128192689799296 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,350 - aqt.helper - DEBUG - helper 128902570201216 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 01:50:37,537 - aqt.helper - DEBUG - helper 128902570201216 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 01:50:37,538 - aqt.helper - DEBUG - helper 128192689799296 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,539 - aqt.helper - DEBUG - helper 128126961680512 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,729 - aqt.helper - DEBUG - helper 128192689799296 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,738 - aqt.helper - DEBUG - helper 128902570201216 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 01:50:37,739 - aqt.helper - DEBUG - helper 128126961680512 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,907 - aqt.helper - DEBUG - helper 128192689799296 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,921 - aqt.helper - DEBUG - helper 128126961680512 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:37,922 - aqt.helper - DEBUG - helper 128902570201216 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 01:50:38,081 - aqt.helper - DEBUG - helper 128192689799296 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:38,103 - aqt.helper - DEBUG - helper 128902570201216 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 01:50:38,105 - aqt.helper - DEBUG - helper 128126961680512 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 01:50:38,289 - aqt.installer - WARNING - installer 130071793688704 Caught ChecksumDownloadFailure, terminating installer workers
+2025-05-06 01:50:38,300 - aqt.main - ERROR - installer 130071793688704 Failed to download checksum for the file '6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+2025-05-06 01:51:39,665 - aqt.main - INFO - installer 138152099872896 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 01:51:39,666 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:51:39,845 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:51:40,020 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:51:40,202 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:51:40,379 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:51:40,555 - aqt.archives - WARNING - archives 138152099872896 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 01:52:04,605 - aqt.helper - WARNING - helper 138152099872896 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://master.qt.io/'.
+2025-05-06 01:52:04,605 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:52:04,781 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:52:04,962 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:52:05,140 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:52:05,318 - aqt.helper - DEBUG - helper 138152099872896 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:52:05,496 - aqt.archives - WARNING - archives 138152099872896 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 01:52:29,566 - aqt.main - ERROR - installer 138152099872896 Failure to connect to https://master.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml: ConnectTimeout
+2025-05-06 01:53:12,545 - aqt.metadata - DEBUG - metadata 139509180698752 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://qtproject.mirror.liquidtelecom.com/'.
+2025-05-06 01:53:33,870 - aqt.helper - DEBUG - helper 128674101129344 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:53:34,049 - aqt.helper - DEBUG - helper 128674101129344 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:53:34,229 - aqt.helper - DEBUG - helper 128674101129344 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:53:34,408 - aqt.helper - DEBUG - helper 128674101129344 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:53:34,583 - aqt.helper - DEBUG - helper 128674101129344 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:53:34,754 - aqt.main - ERROR - installer 128674101129344 Failed to download checksum for the file 'Updates.xml' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+* Please use 'aqt list-qt linux desktop' to show versions of Qt available.
+2025-05-06 01:54:18,324 - aqt.helper - DEBUG - helper 130626280730752 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:54:18,500 - aqt.helper - DEBUG - helper 130626280730752 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:54:18,675 - aqt.helper - DEBUG - helper 130626280730752 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:54:18,852 - aqt.helper - DEBUG - helper 130626280730752 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:54:19,026 - aqt.helper - DEBUG - helper 130626280730752 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:54:19,204 - aqt.main - ERROR - installer 130626280730752 Failed to download checksum for the file 'Updates.xml' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+* Please use 'aqt list-qt linux desktop' to show versions of Qt available.
+2025-05-06 01:54:41,189 - aqt.helper - DEBUG - helper 133841214423168 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:05,239 - aqt.helper - DEBUG - helper 133841214423168 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:29,288 - aqt.helper - DEBUG - helper 133841214423168 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:51,625 - aqt.helper - DEBUG - helper 134234051489920 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:51,807 - aqt.helper - DEBUG - helper 134234051489920 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:51,982 - aqt.helper - DEBUG - helper 134234051489920 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:52,166 - aqt.helper - DEBUG - helper 134234051489920 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:52,340 - aqt.helper - DEBUG - helper 134234051489920 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:55:52,514 - aqt.main - ERROR - installer 134234051489920 Failed to download checksum for the file 'Updates.xml' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+* Please use 'aqt list-qt linux desktop' to show versions of Qt available.
+2025-05-06 01:56:14,527 - aqt.helper - DEBUG - helper 125173307482240 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 01:56:49,080 - aqt.metadata - DEBUG - metadata 132695160221824 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://mirrors.ukfast.co.uk/sites/qt.io/'.
+2025-05-06 01:58:26,917 - aqt.metadata - DEBUG - metadata 137928994893952 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://qt-mirror.dannhauer.de/'.
+2025-05-06 02:00:35,080 - aqt.main - INFO - installer 129220728406144 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 02:00:35,081 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:00:35,266 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:00:35,440 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:00:35,618 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:00:35,792 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:00:35,970 - aqt.archives - WARNING - archives 129220728406144 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 02:01:00,019 - aqt.helper - WARNING - helper 129220728406144 Connection to 'https://download.qt.io' failed. Retrying with fallback 'https://ftp.fau.de/qtproject/'.
+2025-05-06 02:01:00,020 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:01:00,199 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:01:00,377 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:01:00,554 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:01:00,741 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:01:00,915 - aqt.archives - WARNING - archives 129220728406144 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 02:01:01,167 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:01,343 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:01,520 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:01,697 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:01,875 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:02,049 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:02,223 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:02,397 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:02,574 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:02,752 - aqt.helper - DEBUG - helper 129220728406144 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:01:03,232 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,232 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,233 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,236 - aqt.helper - DEBUG - helper 129100320530560 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,428 - aqt.helper - DEBUG - helper 129100320530560 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,429 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,429 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,430 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,616 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,620 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,623 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,624 - aqt.helper - DEBUG - helper 129100320530560 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,814 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,815 - aqt.helper - DEBUG - helper 129100320530560 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,816 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:03,817 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,003 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,004 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,005 - aqt.helper - DEBUG - helper 129100320530560 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,006 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,196 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,200 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,202 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:01:04,392 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,393 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:01:04,394 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,582 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:01:04,582 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,583 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,770 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:01:04,772 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,773 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,961 - aqt.helper - DEBUG - helper 140294216519808 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:01:04,961 - aqt.helper - DEBUG - helper 131714192793728 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:04,962 - aqt.helper - DEBUG - helper 128014817771648 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:01:05,150 - aqt.installer - WARNING - installer 129220728406144 Caught ChecksumDownloadFailure, terminating installer workers
+2025-05-06 02:01:05,162 - aqt.main - ERROR - installer 129220728406144 Failed to download checksum for the file '6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+2025-05-06 02:03:12,846 - aqt.main - INFO - installer 133116235006080 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 02:03:12,847 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:03:13,022 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:03:13,201 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:03:13,375 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:03:13,552 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-05-06 02:03:13,733 - aqt.archives - WARNING - archives 133116235006080 Failed to download checksum for the file 'online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml'. This may happen on unofficial mirrors.
+2025-05-06 02:03:13,972 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:14,146 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:14,319 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:14,493 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:14,670 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtwebengine/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:14,845 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:15,019 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:15,196 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:15,375 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:15,553 - aqt.helper - DEBUG - helper 133116235006080 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/extensions/qtpdf/690/x86_64/Updates.xml.sha256
+2025-05-06 02:03:16,031 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,031 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,031 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,031 - aqt.helper - DEBUG - helper 131388693147776 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,222 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,225 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,228 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,228 - aqt.helper - DEBUG - helper 131388693147776 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,415 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,417 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,418 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,419 - aqt.helper - DEBUG - helper 131388693147776 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,613 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,616 - aqt.helper - DEBUG - helper 131388693147776 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,616 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,620 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,803 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,806 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,807 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,807 - aqt.helper - DEBUG - helper 131388693147776 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:16,996 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,000 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,001 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:03:17,180 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,183 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:03:17,184 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,373 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,374 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,374 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:03:17,556 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:03:17,561 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,565 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,752 - aqt.helper - DEBUG - helper 125894087917696 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,754 - aqt.helper - DEBUG - helper 135813348905088 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z.sha256
+2025-05-06 02:03:17,755 - aqt.helper - DEBUG - helper 130325600936064 Attempt to download checksum at https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z.sha256
+2025-05-06 02:03:17,944 - aqt.installer - WARNING - installer 133116235006080 Caught ChecksumDownloadFailure, terminating installer workers
+2025-05-06 02:03:17,957 - aqt.main - ERROR - installer 133116235006080 Failed to download checksum for the file '6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z' from mirrors '['https://qt-mirror.dannhauer.de/']
+==============================Suggested follow-up:==============================
+* Check your internet connection
+* Consider modifying `requests.max_retries_to_retrieve_hash` in settings.ini
+* Consider modifying `mirrors.trusted_mirrors` in settings.ini (see https://aqtinstall.readthedocs.io/en/stable/configuration.html#configuration)
+2025-05-06 02:04:24,887 - aqt.main - INFO - installer 127203584589952 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 02:04:25,324 - aqt.archives - INFO - archives 127203584589952 Found extension qtwebengine
+2025-05-06 02:04:25,522 - aqt.archives - INFO - archives 127203584589952 Found extension qtpdf
+2025-05-06 02:04:25,840 - aqt.helper - INFO - helper 125520458190976 Downloading qtdeclarative...
+2025-05-06 02:04:25,841 - aqt.helper - INFO - helper 138497692221568 Downloading qtbase...
+2025-05-06 02:04:25,841 - aqt.helper - INFO - helper 138070669832320 Downloading qtsvg...
+2025-05-06 02:04:25,841 - aqt.helper - INFO - helper 128086900433024 Downloading qttools...
+2025-05-06 02:04:25,840 - aqt.installer - DEBUG - installer 125520458190976 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtdeclarative-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:25,841 - aqt.installer - DEBUG - installer 138497692221568 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:25,841 - aqt.installer - DEBUG - installer 138070669832320 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:25,841 - aqt.installer - DEBUG - installer 128086900433024 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:26,409 - aqt.installer - INFO - installer 138070669832320 Finished installation of qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 0.56909242
+2025-05-06 02:04:26,422 - aqt.helper - INFO - helper 138070669832320 Downloading qttranslations...
+2025-05-06 02:04:26,422 - aqt.installer - DEBUG - installer 138070669832320 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:27,594 - aqt.installer - INFO - installer 138070669832320 Finished installation of qttranslations-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 1.17369566
+2025-05-06 02:04:27,610 - aqt.helper - INFO - helper 138070669832320 Downloading qtwayland...
+2025-05-06 02:04:27,610 - aqt.installer - DEBUG - installer 138070669832320 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:04:28,286 - aqt.installer - INFO - installer 138070669832320 Finished installation of qtwayland-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 0.67879641
+2025-05-06 02:04:28,302 - aqt.helper - INFO - helper 138070669832320 Downloading icu...
+2025-05-06 02:04:28,302 - aqt.installer - DEBUG - installer 138070669832320 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z
+2025-05-06 02:04:32,237 - aqt.installer - INFO - installer 138070669832320 Finished installation of icu-linux-Rhel8.6-x86_64.7z in 3.93718913
+2025-05-06 02:04:41,551 - aqt.installer - INFO - installer 128086900433024 Finished installation of qttools-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 15.71123864
+2025-05-06 02:04:46,542 - aqt.installer - INFO - installer 138497692221568 Finished installation of qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 20.70232191
+2025-05-06 02:04:48,635 - aqt.installer - WARNING - installer 127203584589952 Caught KeyboardInterrupt, terminating installer workers
+2025-05-06 02:04:48,659 - aqt.main - ERROR - installer 127203584589952 Installer halted by keyboard interrupt.
+2025-05-06 02:05:04,561 - aqt.main - INFO - installer 137276823359616 aqtinstall(aqt) v3.2.1 on Python 3.12.3 [CPython GCC 13.3.0]
+2025-05-06 02:05:04,981 - aqt.archives - INFO - archives 137276823359616 Found extension qtwebengine
+2025-05-06 02:05:05,162 - aqt.archives - INFO - archives 137276823359616 Found extension qtpdf
+2025-05-06 02:05:05,485 - aqt.helper - INFO - helper 138741989605504 Downloading qtbase...
+2025-05-06 02:05:05,486 - aqt.helper - INFO - helper 134515631358080 Downloading icu...
+2025-05-06 02:05:05,486 - aqt.helper - INFO - helper 137157192306816 Downloading qtsvg...
+2025-05-06 02:05:05,486 - aqt.installer - DEBUG - installer 138741989605504 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:05:05,486 - aqt.installer - DEBUG - installer 134515631358080 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022icu-linux-Rhel8.6-x86_64.7z
+2025-05-06 02:05:05,486 - aqt.installer - DEBUG - installer 137157192306816 Download URL: https://qt-mirror.dannhauer.de/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/qt.qt6.690.linux_gcc_64/6.9.0-0-202503301022qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z
+2025-05-06 02:05:06,084 - aqt.installer - INFO - installer 137157192306816 Finished installation of qtsvg-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 0.59980329
+2025-05-06 02:05:12,582 - aqt.installer - INFO - installer 134515631358080 Finished installation of icu-linux-Rhel8.6-x86_64.7z in 7.09734767
+2025-05-06 02:05:19,364 - aqt.installer - INFO - installer 138741989605504 Finished installation of qtbase-Linux-RHEL_8_10-GCC-Linux-RHEL_8_10-X86_64.7z in 13.87942494
+2025-05-06 02:05:19,495 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/bin/qmake
+2025-05-06 02:05:19,500 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6SvgWidgets.pc
+2025-05-06 02:05:19,500 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Linguist.pc
+2025-05-06 02:05:19,500 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6DBus.pc
+2025-05-06 02:05:19,501 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Widgets.pc
+2025-05-06 02:05:19,501 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6UiPlugin.pc
+2025-05-06 02:05:19,501 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Gui.pc
+2025-05-06 02:05:19,501 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Xml.pc
+2025-05-06 02:05:19,502 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Network.pc
+2025-05-06 02:05:19,502 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Test.pc
+2025-05-06 02:05:19,502 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6OpenGLWidgets.pc
+2025-05-06 02:05:19,502 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Platform.pc
+2025-05-06 02:05:19,502 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6UiTools.pc
+2025-05-06 02:05:19,503 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Concurrent.pc
+2025-05-06 02:05:19,503 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Designer.pc
+2025-05-06 02:05:19,503 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Core.pc
+2025-05-06 02:05:19,503 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Help.pc
+2025-05-06 02:05:19,504 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6WaylandClient.pc
+2025-05-06 02:05:19,504 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Sql.pc
+2025-05-06 02:05:19,504 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6PrintSupport.pc
+2025-05-06 02:05:19,504 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6OpenGL.pc
+2025-05-06 02:05:19,504 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/pkgconfig/Qt6Svg.pc
+2025-05-06 02:05:19,505 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6DeviceDiscoverySupport.prl
+2025-05-06 02:05:19,506 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6WlShellIntegration.prl
+2025-05-06 02:05:19,506 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6DBus.prl
+2025-05-06 02:05:19,507 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Gui.prl
+2025-05-06 02:05:19,507 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6XcbQpa.prl
+2025-05-06 02:05:19,508 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6DesignerComponents.prl
+2025-05-06 02:05:19,508 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6PrintSupport.prl
+2025-05-06 02:05:19,509 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6WaylandEglClientHwIntegration.prl
+2025-05-06 02:05:19,509 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6UiTools.prl
+2025-05-06 02:05:19,509 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6ExampleIcons.prl
+2025-05-06 02:05:19,509 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6EglFsKmsSupport.prl
+2025-05-06 02:05:19,510 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Svg.prl
+2025-05-06 02:05:19,510 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6FbSupport.prl
+2025-05-06 02:05:19,511 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Widgets.prl
+2025-05-06 02:05:19,511 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Core.prl
+2025-05-06 02:05:19,512 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6OpenGLWidgets.prl
+2025-05-06 02:05:19,512 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6WaylandClient.prl
+2025-05-06 02:05:19,512 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Xml.prl
+2025-05-06 02:05:19,513 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6ExamplesAssetDownloader.prl
+2025-05-06 02:05:19,513 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Network.prl
+2025-05-06 02:05:19,513 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6KmsSupport.prl
+2025-05-06 02:05:19,514 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Sql.prl
+2025-05-06 02:05:19,514 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Designer.prl
+2025-05-06 02:05:19,514 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6EglFSDeviceIntegration.prl
+2025-05-06 02:05:19,515 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6EglFsKmsGbmSupport.prl
+2025-05-06 02:05:19,517 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Test.prl
+2025-05-06 02:05:19,518 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6SvgWidgets.prl
+2025-05-06 02:05:19,518 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6OpenGL.prl
+2025-05-06 02:05:19,519 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6InputSupport.prl
+2025-05-06 02:05:19,519 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Concurrent.prl
+2025-05-06 02:05:19,520 - aqt.updater - INFO - updater 137276823359616 Patching qt/6.9.0/gcc_64/lib/libQt6Help.prl
+2025-05-06 02:05:19,520 - aqt.main - INFO - installer 137276823359616 Finished installation
+2025-05-06 02:05:19,520 - aqt.main - INFO - installer 137276823359616 Time elapsed: 14.95915410 second
