@@ -1,0 +1,71 @@
+-- Configuring done (5.4s)
+CMake Error at ext/CMakeLists.txt:91 (target_sources):
+  Cannot find source file:
+
+    /home/youngishcord/Desktop/inviwo_project/builds/ninja-developer-modules/vcpkg_installed/x64-linux/include/tclap/Arg.h
+
+
+CMake Error in src/core/CMakeLists.txt:
+  Imported target "BZip2::BZip2" includes non-existent path
+
+    "/home/youngishcord/Desktop/inviwo_project/builds/ninja-developer-modules/vcpkg_installed/x64-linux/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in modules/cimg/CMakeLists.txt:
+  Imported target "ZLIB::ZLIB" includes non-existent path
+
+    "/home/youngishcord/Desktop/inviwo_project/builds/ninja-developer-modules/vcpkg_installed/x64-linux/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in modules/cimg/CMakeLists.txt:
+  IMPORTED_LOCATION not set for imported target "JPEG::JPEG" configuration
+  "RelWithDebInfo".
+
+
+CMake Error in modules/cimg/CMakeLists.txt:
+  IMPORTED_LOCATION not set for imported target "TIFF::TIFF" configuration
+  "RelWithDebInfo".
+
+
+CMake Error in modules/png/CMakeLists.txt:
+  Imported target "PNG::PNG" includes non-existent path
+
+    "/home/youngishcord/Desktop/inviwo_project/builds/ninja-developer-modules/vcpkg_installed/x64-linux/include"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in modules/png/CMakeLists.txt:
+  IMPORTED_LOCATION not set for imported target "PNG::PNG" configuration
+  "RelWithDebInfo".
+
+
+-- Generating done (0.3s)

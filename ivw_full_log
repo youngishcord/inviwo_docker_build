@@ -1,0 +1,131 @@
+Inviwo Version: 0.9.12-pre
+Build Date: 2025-05-06 10:55:19
+Git modules  hash: 4d181057d06ba85227a2-dirty
+Git misc  hash: 5a1c2c85254b5f8db054
+Git medvis  hash: 5a1c2c85254b5f8db054
+Git molvis  hash: 5a1c2c85254b5f8db054
+Git tensorvis  hash: 5a1c2c85254b5f8db054
+Git topovis  hash: 5a1c2c85254b5f8db054
+Git vectorvis  hash: 5a1c2c85254b5f8db054
+Base Path: /home/youngishcord/Desktop/inviwo_project/inviwo
+ThreadPool Worker Threads: 8
+Config: Ninja [RelWithDebInfo] GNU (14.2.0)
+Qt Version 6.9.0
+Failed to register module: OpenGLQt. Reason:
+ Failed to initialize GLEW: Missing GL version
+Unregistered dependent modules: opengl
+Failed to register module: FontRendering. Reason: 
+Module dependency: OpenGL failed to register
+Failed to register module: BaseGL. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on fontrendering version 1.0.0 but no such module was found
+Using LibJPG Version 62
+Using OpenEXR Version 3.3.2
+Python version: 3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+Failed to register module: OIT. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Failed to register module: Plotting. Reason: 
+Module depends on fontrendering version 1.0.0 but no such module was found
+Failed to register module: UserInterfaceGL. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Module depends on fontrendering version 1.0.0 but no such module was found
+Failed to register module: PlottingGL. Reason: 
+Module depends on plotting version 1.0.0 but no such module was found
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Module depends on fontrendering version 1.0.0 but no such module was found
+Module depends on userinterfacegl version 1.0.0 but no such module was found
+Using LibPNG Version 1.6.46
+Failed to register module: PostProcessing. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Failed to register module: Python3GL. Reason: 
+Module dependency: OpenGL failed to register
+Failed to register module: VectorFieldVisualizationGL. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Failed to load python processor: 'ImageRecorder' due to missing module: 'imageio'. File: /home/youngishcord/Desktop/inviwo_project/modules/misc/pythontools/processors/ImageRecorder.py
+
+Note: Inviwo will not access user site-package folders. Make sure to install the packages site-wide or add
+your user site-package folder to the environment variable `PYTHONPATH`,
+for example "PYTHONPATH=%appdata%\Python\Python311\site-packages".
+Failed to register module: MolVisGL. Reason: 
+Module dependency: OpenGL failed to register
+Module depends on basegl version 1.0.0 but no such module was found
+Module depends on oit version 1.0.0 but no such module was found
+1 warnings generated during startup
+11 errors generated during startup
+There were errors while loading workspace: /home/youngishcord/Desktop/inviwo_project/inviwo/data/workspaces/boron.inv
+Could not create Processor: "StandardVolumeRaycaster" of class "org.inviwo.StandardVolumeRaycaster. Reason: "org.inviwo.StandardVolumeRaycaster" Not found in factory. (inviwo::Deserializer::deserializeSmartPtr (/home/youngishcord/Desktop/inviwo_project/inviwo/include/inviwo/core/io/serialization/deserializer.h:1111))
+Processor was in module: "BaseGL".
+Could not create Processor: "Canvas" of class "org.inviwo.CanvasGL. Reason: "org.inviwo.CanvasGL" Not found in factory. (inviwo::Deserializer::deserializeSmartPtr (/home/youngishcord/Desktop/inviwo_project/inviwo/include/inviwo/core/io/serialization/deserializer.h:1111))
+Processor was in module: "OpenGL".
+Could not create Processor: "EntryExitPoints" of class "org.inviwo.EntryExitPoints. Reason: "org.inviwo.EntryExitPoints" Not found in factory. (inviwo::Deserializer::deserializeSmartPtr (/home/youngishcord/Desktop/inviwo_project/inviwo/include/inviwo/core/io/serialization/deserializer.h:1111))
+Processor was in module: "BaseGL".
+Could not create Processor: "MeshRenderer" of class "org.inviwo.GeometryRenderGL. Reason: "org.inviwo.GeometryRenderGL" Not found in factory. (inviwo::Deserializer::deserializeSmartPtr (/home/youngishcord/Desktop/inviwo_project/inviwo/include/inviwo/core/io/serialization/deserializer.h:1111))
+Processor was in module: "BaseGL".
+Could not create Processor: "Background" of class "org.inviwo.Background. Reason: "org.inviwo.Background" Not found in factory. (inviwo::Deserializer::deserializeSmartPtr (/home/youngishcord/Desktop/inviwo_project/inviwo/include/inviwo/core/io/serialization/deserializer.h:1111))
+Processor was in module: "BaseGL".
+Could not create Connection from:
+Outport 'Background.outport'
+to
+Inport 'Canvas.inport'
+Outport and Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:449))
+Could not create Connection from:
+Outport 'VolumeBoundingBox.mesh'
+to
+Inport 'MeshRenderer.geometry'
+Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:455))
+Could not create Connection from:
+Outport 'CubeProxyGeometry.proxyGeometry'
+to
+Inport 'EntryExitPoints.geometry'
+Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:455))
+Could not create Connection from:
+Outport 'EntryExitPoints.entry'
+to
+Inport 'StandardVolumeRaycaster.entry'
+Outport and Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:449))
+Could not create Connection from:
+Outport 'EntryExitPoints.exit'
+to
+Inport 'StandardVolumeRaycaster.exit'
+Outport and Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:449))
+Could not create Connection from:
+Outport 'StandardVolumeRaycaster.outport'
+to
+Inport 'Background.inport'
+Outport and Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:449))
+Could not create Connection from:
+Outport 'VolumeSource2.data'
+to
+Inport 'StandardVolumeRaycaster.volume'
+Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:455))
+Could not create Connection from:
+Outport 'MeshRenderer.image'
+to
+Inport 'StandardVolumeRaycaster.bg'
+Outport and Inport not found. (inviwo::{anonymous}::retrieveConnection (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:449))
+Could not create Property Link from:
+Source 'MeshRenderer.camera'
+to
+Destination 'StandardVolumeRaycaster.camera'
+Source and destination properties not found. (inviwo::{anonymous}::retrieveLink (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:477))
+Could not create Property Link from:
+Source 'MeshRenderer.camera'
+to
+Destination 'EntryExitPoints.camera'
+Source and destination properties not found. (inviwo::{anonymous}::retrieveLink (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:477))
+Could not create Property Link from:
+Source 'EntryExitPoints.camera'
+to
+Destination 'MeshRenderer.camera'
+Source and destination properties not found. (inviwo::{anonymous}::retrieveLink (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:477))
+Could not create Property Link from:
+Source 'StandardVolumeRaycaster.camera'
+to
+Destination 'MeshRenderer.camera'
+Source and destination properties not found. (inviwo::{anonymous}::retrieveLink (/home/youngishcord/Desktop/inviwo_project/inviwo/src/core/network/processornetwork.cpp:477))
+Loaded volume sequence: /home/youngishcord/Desktop/inviwo_project/inviwo/data/volumes/boron.dat size: 6.44 MB
